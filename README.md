@@ -30,10 +30,6 @@ python boggle_algo.py
 
 This project is distributed under a free license.
 
-## Contributing
-
-Contributions to improve the algorithm or add new features are welcome. Feel free to fork the repository and submit pull requests.
-
 ## Author
 
 This project was developed by [Meziane](https://github.com/Mezia137).
