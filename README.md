@@ -19,9 +19,6 @@ This project focuses on the algorithmic aspect of Boggle, specifically the effic
 
 To run the Boggle Algorithm, execute the `boggle_algo.py` script.
 
-```bash
-python boggle_algo.py
-```
 ## Dependencies
 
 - Python 3.x
